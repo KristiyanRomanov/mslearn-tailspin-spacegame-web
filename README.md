@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/kromanov/Space-Game-Project-Pipeline/_apis/build/status%2FKristiyanRomanov.mslearn-tailspin-spacegame-web%20(2)?branchName=main)](https://dev.azure.com/kromanov/Space-Game-Project-Pipeline/_build/latest?definitionId=3&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
